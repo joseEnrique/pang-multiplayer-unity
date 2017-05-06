@@ -1,0 +1,6 @@
+
+id: 
+  type: string
+score:
+  type: Number
+
