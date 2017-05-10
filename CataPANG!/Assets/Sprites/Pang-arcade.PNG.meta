@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: fca7a403668374449b300cb405bab2ba
+timeCreated: 1494079610
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pang-arcade_0
+    21300002: Pang-arcade_1
+    21300004: Pang-arcade_2
+    21300006: Pang-arcade_3
+    21300008: Pang-arcade_4
+    21300010: Pang-arcade_5
+    21300012: Pang-arcade_6
+    21300014: Pang-arcade_7
+    21300016: Pang-arcade_8
+    21300018: Pang-arcade_9
+    21300020: Pang-arcade_10
+    21300022: Pang-arcade_11
+    21300024: Pang-arcade_12
+    21300026: Pang-arcade_13
+    21300028: Pang-arcade_14
+    21300030: Pang-arcade_15
+    21300032: Pang-arcade_16
+    21300034: Pang-arcade_17
+    21300036: Pang-arcade_18
+    21300038: Pang-arcade_19
+    21300040: Pang-arcade_20
+    21300042: Pang-arcade_21
+    21300044: Pang-arcade_22
+    21300046: Pang-arcade_23
+    21300048: Pang-arcade_24
+    21300050: Pang-arcade_25
+    21300052: Pang-arcade_26
+    21300054: Pang-arcade_27
+    21300056: Pang-arcade_28
+    21300058: Pang-arcade_29
+    21300060: Pang-arcade_30
+    21300062: Pang-arcade_31
+    21300064: Pang-arcade_32
+    21300066: Pang-arcade_33
+    21300068: Pang-arcade_34
+    21300070: Pang-arcade_35
+    21300072: Pang-arcade_36
+    21300074: Pang-arcade_37
+    21300076: Pang-arcade_38
+    21300078: Pang-arcade_39
+    21300080: Pang-arcade_40
+    21300082: Pang-arcade_41
+    21300084: Pang-arcade_42
+    21300086: Pang-arcade_43
+    21300088: Pang-arcade_44
+    21300090: Pang-arcade_45
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pang-arcade_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 177
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 177
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 177
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 177
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 177
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 177
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 177
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 177
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 177
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 177
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 143
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 143
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 143
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 143
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 143
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 143
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 143
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 143
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 151
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 134
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_21
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 134
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 103
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 103
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 103
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 102
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 101
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 103
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 103
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 103
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 102
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 101
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 67
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 67
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 69
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 67
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 67
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 69
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_39
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 69
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_42
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_43
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pang-arcade_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
